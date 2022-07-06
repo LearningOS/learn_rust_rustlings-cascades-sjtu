@@ -1,8 +1,7 @@
 // option3.rs
 // Make me compile! Execute `rustlings hint option3` for hints
 
-// I AM NOT DONE
-
+#[derive(Clone, Copy)]
 struct Point {
     x: i32,
     y: i32,
